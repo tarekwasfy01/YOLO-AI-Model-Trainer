@@ -1,3 +1,1 @@
-.EXE Download
-
-https://tarekwasfy01.itch.io/yolo-ai-trainer
+Download the version 2 Zip and click on the dependencys .bat. Use Python 3.11
