@@ -18,7 +18,12 @@ Download v Zip and click on the dependencies .bat. Use Python 3.11.
 https://github.com/11c1f717-7a94-4eee-ae8e-da9d427a757c
 
 
-Download the .exe installer release from github or here: https://tarekwasfy01.itch.io/mustatil-pro-yolo-sam2-ai-model-trainer-archeology
+# Download the .exe installer release from github or here: 
+
+https://tarekwasfy01.itch.io/mustatil-pro-yolo-sam2-ai-model-trainer-archeology
+
+https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-Pro-Yolo-Sam2-Trainer-V2/Mustatil_Setup.exe
+
 
 
 <img width="1535" height="962" alt="Detections + Crops" src="https://github.com/user-attachments/assets/0b07301b-ac57-455b-a534-7b9501b4e770" />
