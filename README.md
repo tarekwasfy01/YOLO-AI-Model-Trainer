@@ -34,3 +34,6 @@ Downloads:
 https://tarekwasfy01.itch.io/mustatil-pro-yolo-sam2-ai-model-trainer-archeology
 
 https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-Pro-Yolo-Sam2-Trainer-V2/Mustatil_Setup.exe
+
+
+Aditionally there is a GeoPackage converter for QGis if there is a Problem with the files. Normally you can change the EPGS for a layer in QGis.
