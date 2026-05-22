@@ -1,5 +1,5 @@
 
-The installer .exe does download Python and all dependencys then it starts the GUI. Don't worry, it takes some time and should be an option for non Python natives. Download from Github Releases or on itch.
+The installer .exe does download Python and all dependencys then it starts the GUI. Don't worry, it takes some time and should be an option for non Python natives. Download from Github releases or on itch.
 
 
 
