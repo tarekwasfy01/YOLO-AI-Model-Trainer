@@ -7,7 +7,7 @@ The installer .exe does download Python and all dependencys then it starts the G
 
 https://tarekwasfy01.itch.io/mustatil-qt-workspace
 
-https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-QT-Workspace-Yolo-AI/Mustatil_Qt_Workspace_Setup.exe
+https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3-GIS-YOLO-AI_Trainer/Mustatil.3.exe
 
 ## For Python natives:
 
@@ -15,15 +15,14 @@ Download Zip and click on the dependencies .bat. Use Python 3.11.
 
 # Download the Zip Python archive here:
 
-https://github.com/11c1f717-7a94-4eee-ae8e-da9d427a757c
+https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3-GIS-YOLO-AI_Trainer/Mustatil.V3.zip
 
 
 # Download the .exe installer release from github or here: 
 
 https://tarekwasfy01.itch.io/mustatil-qt-workspace
 
-https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-QT-Workspace-Yolo-AI/Mustatil_Qt_Workspace_Setup.exe
-
+https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3-GIS-YOLO-AI_Trainer/Mustatil.3.exe
 
 
 <img width="1535" height="962" alt="Detections + Crops" src="https://github.com/user-attachments/assets/0b07301b-ac57-455b-a534-7b9501b4e770" />
@@ -37,7 +36,7 @@ https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/downl
 https://tarekwasfy01.itch.io/mustatil-qt-workspace
 
 
-https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-QT-Workspace-Yolo-AI/Mustatil_Qt_Workspace_Setup.exe
+https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3-GIS-YOLO-AI_Trainer/Mustatil.3.exe
 
 
 # Downloads:
@@ -45,15 +44,7 @@ https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/downl
 https://tarekwasfy01.itch.io/mustatil-qt-workspace
 
 
-https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-QT-Workspace-Yolo-AI/Mustatil_Qt_Workspace_Setup.exe
-
-
-# Downloads:
-
-https://tarekwasfy01.itch.io/mustatil-qt-workspace
-
-
-https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-QT-Workspace-Yolo-AI/Mustatil_Qt_Workspace_Setup.exe
+https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3-GIS-YOLO-AI_Trainer/Mustatil.3.exe
 
 
 Aditionally there is a GeoPackage converter for QGis if there is a Problem with the files. Normally you can change the EPGS for a layer in QGis.
