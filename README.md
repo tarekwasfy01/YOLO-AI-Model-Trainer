@@ -15,7 +15,7 @@ Download Zip and click on the dependencies .bat. Use Python 3.11.
 
 # Download the Zip Python archive here:
 
-https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3-GIS-YOLO-AI_Trainer/Mustatil.V3.zip
+https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/blob/Mustatil-Pro-Yolo-AI---Main-Branch/Mustatil_V3.1.zip
 
 
 # Download the .exe installer release from github or here: 
