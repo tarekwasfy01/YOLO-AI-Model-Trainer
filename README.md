@@ -5,7 +5,7 @@ The installer .exe does download Python and all dependencys then it starts the G
 
 ## Downloads:
 
-https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3.1/Mustatil_3.1_Small_Setup.exe
+https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3.1/Mustatil_3.1_+Models_Setup.exe
 
 ## For Python natives:
 
@@ -19,8 +19,7 @@ https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/blob/Mustatil-
 # Download the .exe installer release from github or here: 
 
 
-https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3.1/Mustatil_3.1_Small_Setup.exe
-
+https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3.1/Mustatil_3.1_+Models_Setup.exe
 
 
 
@@ -33,11 +32,10 @@ https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/downl
 
 
 # Downloads:
-
-https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3.1/Mustatil_3.1_Small_Setup.exe
+https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3.1/Mustatil_3.1_+Models_Setup.exe
 
 # Downloads:
-https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3.1/Mustatil_3.1_Small_Setup.exe
+https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil3.1/Mustatil_3.1_+Models_Setup.exe
 
 
 Aditionally there is a GeoPackage converter for QGis if there is a Problem with the files. Normally you can change the EPGS for a layer in QGis.
