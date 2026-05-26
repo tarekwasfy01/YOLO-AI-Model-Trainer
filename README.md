@@ -29,8 +29,8 @@ Download Zip and click on the dependencies .bat. Use Python 3.11.
 
 
 
-<img width="1600" height="900" alt="Screenshot 2026-05-26 001237" src="https://github.com/user-attachments/assets/4e8e0545-4d13-4f8e-8291-cfa50ac017ea" />
-<img width="1600" height="900" alt="Screenshot 2026-05-26 000815" src="https://github.com/user-attachments/assets/1e98658a-713d-4d4b-a40a-6db762a95a36" />
+<img width="1280" height="720" alt="Screenshot 2026-05-26 001237" src="https://github.com/user-attachments/assets/4e8e0545-4d13-4f8e-8291-cfa50ac017ea" />
+<img width="1280" height="720" alt="Screenshot 2026-05-26 000815" src="https://github.com/user-attachments/assets/1e98658a-713d-4d4b-a40a-6db762a95a36" />
 
 
 
