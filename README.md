@@ -16,7 +16,7 @@ Download Zip and click on the dependencies .bat. Use Python 3.11.
 https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/blob/Mustatil-Pro-Yolo-AI---Main-Branch/Mustatil3.2.zip
 
 
-# Download the .exe installer release from github or here: 
+# Download the .exe installer release from github: 
 
 https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe
 
