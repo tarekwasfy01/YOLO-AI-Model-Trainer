@@ -5,13 +5,13 @@ The installer .exe does download Python and all dependencys then it starts the G
 
 ## Downloads:
 
-<a href="https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe">GitHub</a>
-<a href="https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe">GitHub</a>
+<a href="https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.3/Mustatil_3.3_Setup.exe">GitHub</a>
+<a href="https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.3/Mustatil_3.3_Setup.exe">GitHub</a>
 
-<a href="https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe">https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe</a>
+<a href="https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.3/Mustatil_3.3_Setup.exe">https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.3/Mustatil_3.3_Setup.exe</a>
 
-<a href="https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe">GitHub</a>
-<a href="https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe">GitHub</a>
+<a href="https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.3/Mustatil_3.3_Setup.exe">GitHub</a>
+<a href="https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.3/Mustatil_3.3_Setup.exe">GitHub</a>
 
 
 ## For Python natives:
@@ -25,7 +25,7 @@ Download Zip and click on the dependencies .bat. Use Python 3.11.
 
 # Download the .exe installer release from github: 
 
-<a href="https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe">https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe</a>
+<a href="https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.3/Mustatil_3.3_Setup.exe">https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.3/Mustatil_3.3_Setup.exe</a>
 
 
 
@@ -34,14 +34,13 @@ Download Zip and click on the dependencies .bat. Use Python 3.11.
 
 
 
-[T](https://tarekwasfy01.itch.io/mustatil-pro-yolo-sam2-ai-model-trainer-archeology
 
 
 # Downloads:
-<a href="https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe">https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe</a>
+<a href="https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.3/Mustatil_3.3_Setup.exe">https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.3/Mustatil_3.3_Setup.exe</a>
 
 # Downloads:
-<a href="https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe">https://github.com/tarekwasfy01/Mustatil---YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.2/Mustatil_3.2_+Models_Setup.exe</a>
+<a href="https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.3/Mustatil_3.3_Setup.exe">https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-/releases/download/Mustatil-3.3/Mustatil_3.3_Setup.exe</a>
 
 
 Aditionally there is a GeoPackage converter for QGis if there is a Problem with the files. Normally you can change the EPGS for a layer in QGis.
